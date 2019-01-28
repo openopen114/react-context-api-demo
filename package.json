@@ -1,7 +1,7 @@
 {
   "name": "react-context-api-demo",
   "version": "0.1.0",
-  "private": true,  
+  "private": true,
   "homepage": "https://openopen114.github.io/react-context-api-demo/",
   "dependencies": {
     "react": "^16.7.0",
